@@ -1,0 +1,2 @@
+Electronic: productId=P001,name= TestProduct1,available= 5,Price= 50.0,Brand= Brand1,Warranty= 2
+Clothing: productId=P002,name= TestProduct2,available= 10,Price= 30.0,Size= SizeM,Colour= Blue
